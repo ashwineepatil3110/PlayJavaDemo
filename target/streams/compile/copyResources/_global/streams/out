@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Jdbc\PlayJpa-Demo\conf\application.conf,C:\Jdbc\PlayJpa-Demo\target\scala-2.13\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Jdbc\PlayJpa-Demo\conf\logback.xml,C:\Jdbc\PlayJpa-Demo\target\scala-2.13\classes\logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Jdbc\PlayJpa-Demo\conf\routes,C:\Jdbc\PlayJpa-Demo\target\scala-2.13\classes\routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Jdbc\PlayJpa-Demo\conf\META-INF\persistence.xml,C:\Jdbc\PlayJpa-Demo\target\scala-2.13\classes\META-INF\persistence.xml)[0m
