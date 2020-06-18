@@ -7,12 +7,12 @@ lazy val root = (project in file("."))
     libraryDependencies ++= Seq(
       guice,
       javaJpa,
-      "com.h2database" % "h2" % "1.4.199",
       "org.hibernate" % "hibernate-core" % "5.4.9.Final",
       javaWs % "test",
       "org.awaitility" % "awaitility" % "4.0.1" % "test",
       "org.assertj" % "assertj-core" % "3.14.0" % "test",
       "org.mockito" % "mockito-core" % "3.1.0" % "test",
+      "org.postgresql" % "postgresql" % "42.2.12"
     ),
     Test / testOptions += Tests.Argument(TestFrameworks.JUnit, "-a", "-v"),
     scalacOptions ++= List("-encoding", "utf8", "-deprecation", "-feature", "-unchecked"),
